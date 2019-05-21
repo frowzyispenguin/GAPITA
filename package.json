@@ -1,8 +1,8 @@
 {
-  "name": "گپیتا",
+  "name": "GAPITA",
   "version": "1.0.0",
   "private": true,
-  "description": "یک پیام رسان تصادفی و گمنام برای چت با افراد ناشناس",
+  "description": "An anonymous and random chat messaging for talking to strangers",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode=development --watch",

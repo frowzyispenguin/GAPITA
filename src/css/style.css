@@ -1,50 +1,50 @@
 @font-face {
-   font-family: 'SegoeUI';
-   src: url('../fonts/SegoeUI.eot');
-   src: url('../fonts/SegoeUI.eot?#iefix') format('embedded-opentype');
+   font-family: 'Vazir';
+   src: url('../fonts/Vazir.eot');
+   src: url('../fonts/Vazir.eot?#iefix') format('embedded-opentype');
    font-weight: normal;
    font-style: normal;
 }
 
 @font-face {
-  font-family: 'SegoeUI';
-  src: url('../fonts/SegoeUI.woff') format('woff'),
-       url('../fonts/SegoeUI.ttf') format('truetype'),
-       url('../fonts/SegoeUI.svg#DastNevis') format('svg');
+  font-family: 'Vazir';
+  src: url('../fonts/Vazir.woff') format('woff'),
+       url('../fonts/Vazir.ttf') format('truetype'),
+       url('../fonts/Vazir.svg#DastNevis') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-   font-family: 'SegoeUI-Light';
-   src: url('../fonts/SegoeUI-Light.eot');
-   src: url('../fonts/SegoeUI-Light.eot?#iefix') format('embedded-opentype');
+   font-family: 'Vazir-Light';
+   src: url('../fonts/Vazir-Light.eot');
+   src: url('../fonts/Vazir-Light.eot?#iefix') format('embedded-opentype');
    font-weight: normal;
    font-style: normal;
 }
 
 @font-face {
-  font-family: 'SegoeUI-Light';
-  src: url('../fonts/SegoeUI-Light.woff') format('woff'),
-       url('../fonts/SegoeUI-Light.ttf') format('truetype'),
-       url('../fonts/SegoeUI-Light.svg#DastNevis') format('svg');
+  font-family: 'Vazir-Light';
+  src: url('../fonts/Vazir-Light.woff') format('woff'),
+       url('../fonts/Vazir-Light.ttf') format('truetype'),
+       url('../fonts/Vazir-Light.svg#DastNevis') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-   font-family: 'SegoeUI-Bold';
-   src: url('../fonts/SegoeUI-Bold.eot');
-   src: url('../fonts/SegoeUI-Bold.eot?#iefix') format('embedded-opentype');
+   font-family: 'Vazir-Bold';
+   src: url('../fonts/Vazir-Bold.eot');
+   src: url('../fonts/Vazir-Bold.eot?#iefix') format('embedded-opentype');
    font-weight: normal;
    font-style: normal;
 }
 
 @font-face {
-  font-family: 'SegoeUI-Bold';
-  src: url('../fonts/SegoeUI-Bold.woff') format('woff'),
-       url('../fonts/SegoeUI-Bold.ttf') format('truetype'),
-       url('../fonts/SegoeUI-Bold.svg#DastNevis') format('svg');
+  font-family: 'Vazir-Bold';
+  src: url('../fonts/Vazir-Bold.woff') format('woff'),
+       url('../fonts/Vazir-Bold.ttf') format('truetype'),
+       url('../fonts/Vazir-Bold.svg#DastNevis') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -61,7 +61,7 @@ div.menu-bar {
     right: 0px;
     width: 100%;
     height: 60px;
-    direction:ltr;
+    direction:rtl;
     display: flex;
     text-align: center;
     background-color: #fff;
@@ -90,7 +90,7 @@ div.logo-menu-bar {
 
 p.text-menu-bar {
     width: 50px;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:15pt;
     font-weight:normal;
     text-align:left;
@@ -129,7 +129,7 @@ div.items-menu-bar-button:hover {
 
 p.text-menu-bar-button {
     width: auto;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size: 10pt;
     font-weight:bold;
     text-align:left;
@@ -159,7 +159,7 @@ div.online-users-logo {
 
 p.text-menu-bar-online {
     width: auto;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:11pt;
     font-weight:normal;
     text-align:left;
@@ -190,7 +190,7 @@ div.more-menu-bar-button:hover {
 
 p.text-menu-bar-more {
     width: auto;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size: 10pt;
     font-weight:bold;
     text-align:left;
@@ -259,7 +259,7 @@ div.items-more-menu-button, div.more-menu-online, p.text-more-menu-button, p.tex
     
     p.text-more-menu-button {
         width: auto;
-        font-family: 'SegoeUI';
+        font-family: 'Vazir';
         font-size: 10pt;
         font-weight:bold;
         text-align:left;
@@ -272,7 +272,7 @@ div.items-more-menu-button, div.more-menu-online, p.text-more-menu-button, p.tex
     
     p.text-more-menu-online {
         width: auto;
-        font-family: 'SegoeUI-Light';
+        font-family: 'Vazir-Light';
         font-size: 11pt;
         font-weight:lighter;
         text-align:left;
@@ -320,7 +320,7 @@ div.logo-start {
 }
 
 h1.header-main-text {
-    font-family: 'SegoeUI-Light';
+    font-family: 'Vazir-Light';
     font-size:28pt;
     font-weight:lighter;
     text-align:center;
@@ -329,7 +329,7 @@ h1.header-main-text {
 }
 
 h2.header-sub-text {
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:14pt;
     font-weight:lighter;
     text-align:center;
@@ -344,7 +344,7 @@ button.button-round-box {
     text-align: center;
     text-decoration: none;
     outline: none;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:14pt;
     font-weight:normal;
     border-radius: 25px;
@@ -369,7 +369,7 @@ button.button-round-box {
 }
 
 h1.header-text {
-    font-family: 'SegoeUI-Bold';
+    font-family: 'Vazir-Bold';
     font-size:22pt;
     font-weight:bold;
     text-align:center;
@@ -402,13 +402,13 @@ div.what-is-text {
     display:inline-block;
     vertical-align:middle;
     width:400px;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:25pt;
     font-weight:normal;
 }
 
 p.normal-text {
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:13pt;
     font-weight:normal;
     text-align:justify;
@@ -421,7 +421,7 @@ div.features {
     display:inline-block;
     vertical-align:top;
     width:400px;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:25pt;
     font-weight:normal;
 }
@@ -436,7 +436,7 @@ div.features-logo {
 
 p.feature-header-text {
     text-align:center;
-    font-family: 'SegoeUI-Bold';
+    font-family: 'Vazir-Bold';
     font-size:15pt;
     font-weight:bold;
     line-height:2;
@@ -464,7 +464,7 @@ div.footer {
 }
 
 p.footer-text {
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:12pt;
     font-weight:normal;
     text-align: center;
@@ -474,7 +474,7 @@ p.footer-text {
 }
 
 p.footer-policy-text {
-    font-family: 'SegoeUI-Light';
+    font-family: 'Vazir-Light';
     font-size:11pt;
     font-weight:lighter;
     text-align: center;
@@ -520,7 +520,7 @@ textarea.message-text-area {
     border: 1px solid #ccc;
     padding: 5px;
     text-align: start;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:12pt;
     font-weight: normal;
     text-decoration: none;
@@ -562,7 +562,7 @@ div.chat-content {
 p.connect-disconnect-message {
     width: 250px;
     height: auto;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:10pt;
     font-weight:bold;
     text-align:center;
@@ -577,7 +577,7 @@ p.message-caller {
     display: table;
     max-width: 340px;
     height: auto;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:11pt;
     font-weight:normal;
     text-align:start;
@@ -596,7 +596,7 @@ p.message-stranger {
     display: table;
     max-width: 340px;
     height: auto;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:11pt;
     font-weight:normal;
     text-align:start;
@@ -613,7 +613,7 @@ p.message-stranger {
 
 p.text-is-typing {
     width: auto;
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size: 10pt;
     font-weight:bold;
     text-align:left;
@@ -625,7 +625,7 @@ p.text-is-typing {
 }
 
 p.about-header-text {
-    font-family: 'SegoeUI-Light';
+    font-family: 'Vazir-Light';
     font-size:20pt;
     font-weight:lighter;
     text-align:left;
@@ -635,7 +635,7 @@ p.about-header-text {
 }
 
 p.about-normal-text {
-    font-family: 'SegoeUI';
+    font-family: 'Vazir';
     font-size:13pt;
     font-weight:normal;
     text-align:justify;
